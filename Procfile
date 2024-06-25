@@ -1,1 +1,1 @@
-web: gunicorn your_project_name.wsgi
+web: gunicorn trabalho1_clound.wsgi --log-file -
